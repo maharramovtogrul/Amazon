@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-align: center;
+   
+}
+.logo>a{
+    width: 200px;
+    height: 100px;
+}
+.main{
+    border: 0.5px solid #d4d4d4;
+    width: 300px;
+    height: 250px;
+    margin-left: 37%;
+    border-radius: 5px;
+    padding: 20px;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    padding-bottom: 10px;
+}
+input{
+    display: block;
+    width: 280px;
+    height: 20px;
+    padding: 3px 7px;
+    border-radius: 3px gray;
+}
+.submit{
+    margin-top: 15px;
+    width: 297px;
+    height: 30px;
+    background-color: rgb(250, 196, 58);
+    border-radius: 3px;
+    border-color: lightgray;
+    cursor: pointer;
+
+}
+p.first{
+    margin-top: 15px;
+    font-size: small;
+}
+p.first>a{
+    text-decoration: none;
+}
+p.two{
+    margin-top: 30px;
+}
+.two>a{
+    text-decoration: none;
+}
+
+div.text{
+    text-align: center;
+    margin-top: 10px;
+    font-size: small;
+    color: gray;
+}
+button{
+   margin-left: 505px;
+   width: 345px;
+   height: 30px;
+   cursor: pointer;
+   margin-top: 10px;
+   color: lightgray;
+   border-radius: 3px gray;
+}
+button>a{
+    text-decoration: none;
+    color: black;
+}
+.foot{
+    margin: 40px 0 0 550px;
+}
+.foot>span>a{
+    text-decoration: none;
+    font-size: 12px;
+}
+.end{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
